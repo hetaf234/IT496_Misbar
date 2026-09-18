@@ -1,0 +1,23 @@
+{
+  "audit_id": "baseline_v2_data_and_model_audit_before_uncertainty_and_llava",
+  "read_only_inputs": true,
+  "expected": {
+    "architecture": "DINOv2_ViTB14",
+    "classes": 121,
+    "train_images": 76198,
+    "validation_images": 3630,
+    "test_images": 25853,
+    "checkpoint_sha256": "662b398c7e377cca59b984ede3c2d6460c70eef5d7c74beff3da57cda8c6c469",
+    "image_size": 336,
+    "eval_resize": 378
+  },
+  "inputs": {
+    "dataset": null,
+    "checkpoint": null,
+    "manifest": "../../../dataset_reports/final_dataset_manifest_v2.csv",
+    "dataset_summary": "../../../dataset_reports/final_dataset_summary_v2.csv",
+    "leakage_report": "../../../dataset_reports/final_dataset_leakage_report_v2.csv",
+    "baseline_metrics": "../../../reports/baseline_121/final_test_metrics.json"
+  },
+  "notes": "Set external dataset and checkpoint paths locally. Do not commit machine-specific paths."
+}
