@@ -1,0 +1,19 @@
+{
+  "run_id": "20260910_final_food_v2_dinov2_transfer",
+  "model": "DINOv2_ViTB14",
+  "image_size": 336,
+  "eval_resize": 378,
+  "batch_candidates": [48, 36, 32, 24, 16, 12, 8],
+  "num_workers": 8,
+  "head_epochs": 2,
+  "full_epochs": 12,
+  "head_lr": 0.0002,
+  "full_head_lr": 0.0001,
+  "backbone_lr": 0.00001,
+  "weight_decay": 0.05,
+  "label_smoothing": 0.05,
+  "warmup_fraction": 0.1,
+  "ema_decay": 0.999,
+  "early_stopping_patience": 5,
+  "seed": 42
+}

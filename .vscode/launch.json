@@ -1,0 +1,17 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Verify baseline checkpoint",
+      "type": "debugpy",
+      "request": "launch",
+      "program": "${workspaceFolder}/scripts/infer_final_food_v2_dinov2.py",
+      "console": "integratedTerminal",
+      "args": [
+        "--checkpoint",
+        "${workspaceFolder}/models/best_checkpoint.pt",
+        "--verify-only"
+      ]
+    }
+  ]
+}

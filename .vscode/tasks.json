@@ -1,0 +1,17 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "Verify baseline checkpoint",
+      "type": "shell",
+      "command": "${command:python.interpreterPath}",
+      "args": [
+        "scripts/infer_final_food_v2_dinov2.py",
+        "--checkpoint",
+        "models/best_checkpoint.pt",
+        "--verify-only"
+      ],
+      "problemMatcher": []
+    }
+  ]
+}

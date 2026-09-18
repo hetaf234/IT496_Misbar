@@ -1,0 +1,15 @@
+{
+  "baseline_121": {
+    "status": "verified_existing_baseline",
+    "architecture": "DINOv2_ViTB14",
+    "classes": 121,
+    "checkpoint_filename": "best_checkpoint.pt",
+    "sha256": "662b398c7e377cca59b984ede3c2d6460c70eef5d7c74beff3da57cda8c6c469",
+    "input_size": 336,
+    "validation_top1": 0.9699724517906336,
+    "final_test_top1": 0.9498704212277105,
+    "final_test_top5": 0.9914903492824817,
+    "local_destination": "models/best_checkpoint.pt",
+    "notes": "The model file is deliberately external to normal Git. Verify its SHA-256 before use."
+  }
+}

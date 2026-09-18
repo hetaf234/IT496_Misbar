@@ -1,0 +1,14 @@
+{
+  "classes": 121,
+  "validation_per_class": 30,
+  "train_total": 76198,
+  "validation_total": 3630,
+  "test_total": 25853,
+  "excluded_candidates": 138,
+  "seed": 20260909,
+  "test_source": "/Users/hetafalmazroa/Desktop/Combined_dataset/final_food_dataset/test",
+  "test_preservation": "hard-linked byte-identical copies; original test directory unchanged",
+  "validation_policy": "30 clean base-source images per class; extras restricted to training",
+  "cross_class_resolution": "removed one ambiguous aseeda image and its near-identical hininy copy; replaced hininy validation slot with a clean base image",
+  "cross_class_train_conflicts_removed": 5
+}

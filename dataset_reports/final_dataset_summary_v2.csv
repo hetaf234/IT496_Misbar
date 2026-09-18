@@ -1,0 +1,122 @@
+class_name,source_dataset,raw_train_validation_candidates,clean_unique_pool,train_count,validation_count,test_count,excluded_candidates
+Kibbeh,Arabic Food-101,186,186,156,30,10,0
+Kunafa,Arabic Food-101,190,190,160,30,10,0
+Mandi,Arabic Food-101,180,180,150,30,10,0
+Mansaf,Arabic Food-101 + extra_images,182,180,150,30,10,2
+Qatayef,Arabic Food-101,184,182,152,30,10,2
+Shawarma,Arabic Food-101,185,184,154,30,10,1
+Shishabark,Arabic Food-101 + extra_images,162,160,130,30,10,2
+apple_pie,Food-101,750,749,719,30,250,1
+arayes,MENA-150 (cleaned) + extra_images,167,166,136,30,49,1
+areeka,MENA-150 (cleaned) + extra_images,173,170,140,30,44,3
+aseeda,MENA-150 (cleaned),273,272,242,30,45,1
+baba-ghanoush,MENA-150 (cleaned) + extra_images,182,180,150,30,47,2
+baby_back_ribs,Food-101,750,747,717,30,250,3
+baklava,Food-101,750,750,720,30,250,0
+beef_carpaccio,Food-101,750,749,719,30,250,1
+beef_tartare,Food-101,750,749,719,30,250,1
+beet_salad,Food-101,750,748,718,30,250,2
+beignets,Food-101,750,748,718,30,250,2
+bibimbap,Food-101,750,749,719,30,250,1
+bread_pudding,Food-101,750,750,720,30,250,0
+breakfast_burrito,Food-101,750,748,718,30,250,2
+briouat,MENA-150 (cleaned),237,237,207,30,46,0
+bruschetta,Food-101,750,750,720,30,250,0
+caesar_salad,Food-101,750,749,719,30,250,1
+cannoli,Food-101,750,748,718,30,250,2
+caprese_salad,Food-101,750,749,719,30,250,1
+carrot_cake,Food-101,750,750,720,30,250,0
+ceviche,Food-101,750,748,718,30,250,2
+cheese_plate,Food-101,750,749,719,30,250,1
+cheesecake,Food-101,750,750,720,30,250,0
+chicken_curry,Food-101,750,750,720,30,250,0
+chicken_quesadilla,Food-101,750,748,718,30,250,2
+chicken_wings,Food-101,750,749,719,30,250,1
+chocolate_cake,Food-101,750,748,718,30,250,2
+chocolate_mousse,Food-101,750,749,719,30,250,1
+churros,Food-101,750,749,719,30,250,1
+clam_chowder,Food-101,750,749,719,30,250,1
+club_sandwich,Food-101,750,750,720,30,250,0
+crab_cakes,Food-101,750,749,719,30,250,1
+creme_brulee,Food-101,750,750,720,30,250,0
+croque_madame,Food-101,750,750,720,30,250,0
+cup_cakes,Food-101,750,749,719,30,250,1
+dajaj-mashwi,MENA-150 (cleaned),250,250,220,30,43,0
+deviled_eggs,Food-101,750,746,716,30,250,4
+donuts,Food-101,750,748,718,30,250,2
+dumplings,Food-101,750,748,718,30,250,2
+edamame,Food-101,750,748,718,30,250,2
+eggs_benedict,Food-101,750,750,720,30,250,0
+escargots,Food-101,750,749,719,30,250,1
+falafel,Food-101,750,748,718,30,250,2
+filet_mignon,Food-101,750,750,720,30,250,0
+fish_and_chips,Food-101,750,750,720,30,250,0
+foie_gras,Food-101,750,746,716,30,250,4
+french_fries,Food-101,750,750,720,30,250,0
+french_onion_soup,Food-101,750,747,717,30,250,3
+french_toast,Food-101,750,749,719,30,250,1
+fried_calamari,Food-101,750,747,717,30,250,3
+fried_rice,Food-101,750,749,719,30,250,1
+frozen_yogurt,Food-101,750,750,720,30,250,0
+garlic_bread,Food-101,750,749,719,30,250,1
+gnocchi,Food-101,750,747,717,30,250,3
+greek_salad,Food-101,750,749,719,30,250,1
+grilled_cheese_sandwich,Food-101,750,750,720,30,250,0
+grilled_salmon,Food-101,750,746,716,30,250,4
+guacamole,Food-101,750,750,720,30,250,0
+gyoza,Food-101,750,750,720,30,250,0
+hamburger,Food-101,750,749,719,30,250,1
+hasa-adas,MENA-150 (cleaned),234,234,204,30,47,0
+hininy,MENA-150 (cleaned),217,216,186,30,24,1
+hot_and_sour_soup,Food-101,750,750,720,30,250,0
+hot_dog,Food-101,750,747,717,30,250,3
+huevos_rancheros,Food-101,750,749,719,30,250,1
+hummus,Food-101,750,749,719,30,250,1
+ice_cream,Food-101,750,750,720,30,250,0
+kebab,Arabic Food-101,192,191,161,30,10,1
+lasagna,Food-101,750,747,717,30,250,3
+lobster_bisque,Food-101,750,750,720,30,250,0
+lobster_roll_sandwich,Food-101,750,747,717,30,250,3
+maamoul-saudi-arabia,MENA-150 (cleaned),236,236,206,30,45,0
+macaroni_and_cheese,Food-101,750,750,720,30,250,0
+macarons,Food-101,750,749,719,30,250,1
+masoub,MENA-150 (cleaned),277,277,247,30,35,0
+miso_soup,Food-101,750,750,720,30,250,0
+mussels,Food-101,750,749,719,30,250,1
+nachos,Food-101,750,749,719,30,250,1
+omelette,Food-101,750,747,717,30,250,3
+onion_rings,Food-101,750,749,719,30,250,1
+oysters,Food-101,750,750,720,30,250,0
+pad_thai,Food-101,750,749,719,30,250,1
+paella,Food-101,750,747,717,30,250,3
+pancakes,Food-101,750,748,718,30,250,2
+panna_cotta,Food-101,750,748,718,30,250,2
+peking_duck,Food-101,750,750,720,30,250,0
+pho,Food-101,750,748,718,30,250,2
+pizza,Food-101,750,749,719,30,250,1
+pork_chop,Food-101,750,750,720,30,250,0
+poutine,Food-101,750,750,720,30,250,0
+prime_rib,Food-101,750,740,710,30,250,10
+pulled_pork_sandwich,Food-101,750,749,719,30,250,1
+ramen,Food-101,750,750,720,30,250,0
+ravioli,Food-101,750,748,718,30,250,2
+red_velvet_cake,Food-101,750,747,717,30,250,3
+risotto,Food-101,750,750,720,30,250,0
+saleeg,MENA-150 (cleaned),230,230,200,30,49,0
+samosa,Food-101,750,749,719,30,250,1
+sashimi,Food-101,750,750,720,30,250,0
+scallops,Food-101,750,750,720,30,250,0
+seaweed_salad,Food-101,750,749,719,30,250,1
+shakshouka-egypt,MENA-150 (cleaned),279,279,249,30,49,0
+shrimp_and_grits,Food-101,750,749,719,30,250,1
+spaghetti_bolognese,Food-101,750,750,720,30,250,0
+spaghetti_carbonara,Food-101,750,746,716,30,250,4
+spring_rolls,Food-101,750,750,720,30,250,0
+steak,Food-101,750,749,719,30,250,1
+strawberry_shortcake,Food-101,750,748,718,30,250,2
+sushi,Food-101,750,750,720,30,250,0
+tacos,Food-101,750,750,720,30,250,0
+takoyaki,Food-101,750,749,719,30,250,1
+tiramisu,Food-101,750,750,720,30,250,0
+tuna_tartare,Food-101,750,750,720,30,250,0
+waffles,Food-101,750,749,719,30,250,1
