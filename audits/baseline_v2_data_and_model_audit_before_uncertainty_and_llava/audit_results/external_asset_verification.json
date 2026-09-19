@@ -1,0 +1,10 @@
+{
+  "status": "interim",
+  "checkpoint": {
+    "filename": "best_checkpoint.pt",
+    "size_bytes": 1040301749,
+    "sha256": "662b398c7e377cca59b984ede3c2d6460c70eef5d7c74beff3da57cda8c6c469",
+    "sha256_matches_baseline": true
+  },
+  "dataset": null
+}

@@ -16,7 +16,8 @@
 | `10_llava_readiness_gate/` | Conditions and boundaries for LLaVA integration. |
 | `11_final_decision/` | Final findings and recommended next action. |
 | `configs/` | Audit-only configuration that does not change the baseline. |
-| `scripts/` | Read-only audit programs to be added and tested. |
+| `scripts/` | Tested read-only programs for static analysis, external asset verification, image integrity, prediction export, and uncertainty analysis. |
+| `tests/` | Unit tests for audit calculations. |
 | `working_copies/` | Isolated copies of baseline code when experimental edits are required. |
 | `audit_results/` | Generated audit results that do not replace baseline reports. |
 
